@@ -1,0 +1,81 @@
+
+.picture {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.front {
+  padding-top: 50px;
+  padding-right: 250px;
+  padding-left: 250px;
+  text-align: center;
+}
+
+.qInfo {
+  display: table;
+  margin: 0 auto;
+}
+
+.qHeader {
+  text-align: center;
+}
+
+.techQ {
+  padding-left: 280px;
+}
+
+.list {
+  text-align: left;
+}
+
+.workOne {
+  background-color: lightgrey;
+  width: 350px;
+  border: 15px solid green;
+  padding: 50px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+.workTwo {
+  background-color: lightgrey;
+  width: 350px;
+  border: 15px solid green;
+  padding: 50px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+.workThree {
+  background-color: lightgrey;
+  width: 350px;
+  border: 15px solid green;
+  padding: 50px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+.workFour {
+  background-color: lightgrey;
+  width: 350px;
+  border: 15px solid green;
+  padding: 50px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+.box {
+  display: flex;
+}
+
+.projectFormat {
+  text-align: center;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 25px;
+
+}
